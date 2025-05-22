@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         //also, it provides missing step definition
         //to start the execution, set the value of dry run to false
         dryRun =false,
-        tags = "@Reenter",
+        tags = "@addEmp",
         plugin = {"pretty","html:target/cucumber.html","json:target/cucumber.json"}
 
 

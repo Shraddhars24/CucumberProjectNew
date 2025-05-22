@@ -87,7 +87,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>CucumberBatch22</projectName>
+                            <projectName>CucumberProjectNew</projectName>
                             <!-- optional, per documentation set this to "true" to bypass generation of Cucumber Reports entirely, defaults to false if not specified -->
 
                             <!-- output directory for the generated report -->
